@@ -10,5 +10,10 @@ public class SolarSystem {
         xros.temp="23243243243234k";
         xros.size="234243432432432424miles";
 
+        Planet2 lion = new Planet2();
+        lion.color = "brown";
+        lion.temp = "536647477383f";
+        lion.size = "535636366363km";
+
     }
 }
